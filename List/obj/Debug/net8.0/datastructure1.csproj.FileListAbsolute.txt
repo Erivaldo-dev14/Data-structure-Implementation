@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\datastructure1\bin\Debug\net8.0\datastructure1.exe
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\datastructure1\bin\Debug\net8.0\datastructure1.deps.json
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\datastructure1\bin\Debug\net8.0\datastructure1.runtimeconfig.json
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\datastructure1\bin\Debug\net8.0\datastructure1.dll
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\datastructure1\bin\Debug\net8.0\datastructure1.pdb
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\datastructure1\obj\Debug\net8.0\datastructure1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\datastructure1\obj\Debug\net8.0\datastructure1.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\datastructure1\obj\Debug\net8.0\datastructure1.AssemblyInfo.cs
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\datastructure1\obj\Debug\net8.0\datastructure1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\datastructure1\obj\Debug\net8.0\datastructure1.dll
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\datastructure1\obj\Debug\net8.0\refint\datastructure1.dll
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\datastructure1\obj\Debug\net8.0\datastructure1.pdb
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\datastructure1\obj\Debug\net8.0\datastructure1.genruntimeconfig.cache
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\datastructure1\obj\Debug\net8.0\ref\datastructure1.dll

@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Stack\obj\Debug\net8.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Stack\obj\Debug\net8.0\Stack.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Stack\obj\Debug\net8.0\Stack.AssemblyInfo.cs
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Stack\obj\Debug\net8.0\Stack.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Stack\bin\Debug\net8.0\Stack.exe
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Stack\bin\Debug\net8.0\Stack.deps.json
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Stack\bin\Debug\net8.0\Stack.runtimeconfig.json
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Stack\bin\Debug\net8.0\Stack.dll
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Stack\bin\Debug\net8.0\Stack.pdb
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Stack\obj\Debug\net8.0\Stack.dll
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Stack\obj\Debug\net8.0\refint\Stack.dll
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Stack\obj\Debug\net8.0\Stack.pdb
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Stack\obj\Debug\net8.0\Stack.genruntimeconfig.cache
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Stack\obj\Debug\net8.0\ref\Stack.dll
