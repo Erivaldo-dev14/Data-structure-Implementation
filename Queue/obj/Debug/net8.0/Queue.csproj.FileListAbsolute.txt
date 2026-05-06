@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Queue\bin\Debug\net8.0\Queue.exe
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Queue\bin\Debug\net8.0\Queue.deps.json
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Queue\bin\Debug\net8.0\Queue.runtimeconfig.json
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Queue\bin\Debug\net8.0\Queue.dll
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Queue\bin\Debug\net8.0\Queue.pdb
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Queue\obj\Debug\net8.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Queue\obj\Debug\net8.0\Queue.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Queue\obj\Debug\net8.0\Queue.AssemblyInfo.cs
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Queue\obj\Debug\net8.0\Queue.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Queue\obj\Debug\net8.0\Queue.sourcelink.json
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Queue\obj\Debug\net8.0\Queue.dll
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Queue\obj\Debug\net8.0\refint\Queue.dll
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Queue\obj\Debug\net8.0\Queue.pdb
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Queue\obj\Debug\net8.0\Queue.genruntimeconfig.cache
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Queue\obj\Debug\net8.0\ref\Queue.dll

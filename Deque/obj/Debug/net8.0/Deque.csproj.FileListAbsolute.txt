@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Deque\bin\Debug\net8.0\Deque.exe
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Deque\bin\Debug\net8.0\Deque.deps.json
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Deque\bin\Debug\net8.0\Deque.runtimeconfig.json
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Deque\bin\Debug\net8.0\Deque.dll
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Deque\bin\Debug\net8.0\Deque.pdb
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Deque\obj\Debug\net8.0\Deque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Deque\obj\Debug\net8.0\Deque.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Deque\obj\Debug\net8.0\Deque.AssemblyInfo.cs
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Deque\obj\Debug\net8.0\Deque.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Deque\obj\Debug\net8.0\Deque.sourcelink.json
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Deque\obj\Debug\net8.0\Deque.dll
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Deque\obj\Debug\net8.0\refint\Deque.dll
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Deque\obj\Debug\net8.0\Deque.pdb
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Deque\obj\Debug\net8.0\Deque.genruntimeconfig.cache
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\Deque\obj\Debug\net8.0\ref\Deque.dll

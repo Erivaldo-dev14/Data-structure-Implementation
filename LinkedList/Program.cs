@@ -53,6 +53,7 @@ class Program
         //    Console.WriteLine($"Node.Next.Value: {node.Next.Value}");
         //}
 
+        my.IsValid();
 
 
     }
@@ -364,6 +365,7 @@ class MyLinkedList<T>
         return true;
     }
 
+   
 
 
 

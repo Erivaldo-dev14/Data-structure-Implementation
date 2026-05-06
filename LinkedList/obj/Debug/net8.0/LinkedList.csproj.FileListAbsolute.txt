@@ -12,3 +12,4 @@ C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csh
 C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\LinkedList\obj\Debug\net8.0\LinkedList.pdb
 C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\LinkedList\obj\Debug\net8.0\LinkedList.genruntimeconfig.cache
 C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\LinkedList\obj\Debug\net8.0\ref\LinkedList.dll
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\LinkedList\obj\Debug\net8.0\LinkedList.sourcelink.json

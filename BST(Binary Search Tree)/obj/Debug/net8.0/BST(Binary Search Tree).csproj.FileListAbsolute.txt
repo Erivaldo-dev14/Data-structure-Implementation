@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\BST(Binary Search Tree)\bin\Debug\net8.0\BST(Binary Search Tree).exe
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\BST(Binary Search Tree)\bin\Debug\net8.0\BST(Binary Search Tree).deps.json
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\BST(Binary Search Tree)\bin\Debug\net8.0\BST(Binary Search Tree).runtimeconfig.json
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\BST(Binary Search Tree)\bin\Debug\net8.0\BST(Binary Search Tree).dll
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\BST(Binary Search Tree)\bin\Debug\net8.0\BST(Binary Search Tree).pdb
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\BST(Binary Search Tree)\obj\Debug\net8.0\BST(Binary Search Tree).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\BST(Binary Search Tree)\obj\Debug\net8.0\BST(Binary Search Tree).AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\BST(Binary Search Tree)\obj\Debug\net8.0\BST(Binary Search Tree).AssemblyInfo.cs
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\BST(Binary Search Tree)\obj\Debug\net8.0\BST(Binary Search Tree).csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\BST(Binary Search Tree)\obj\Debug\net8.0\BST(Binary Search Tree).sourcelink.json
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\BST(Binary Search Tree)\obj\Debug\net8.0\BST(Binary Search Tree).dll
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\BST(Binary Search Tree)\obj\Debug\net8.0\refint\BST(Binary Search Tree).dll
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\BST(Binary Search Tree)\obj\Debug\net8.0\BST(Binary Search Tree).pdb
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\BST(Binary Search Tree)\obj\Debug\net8.0\BST(Binary Search Tree).genruntimeconfig.cache
+C:\Users\HP\Documents\ALL MY PROGRAMMING PROJECTS\Reprogramação Mental C e csharp\C#\fase 0\Data Structures\BST(Binary Search Tree)\obj\Debug\net8.0\ref\BST(Binary Search Tree).dll
